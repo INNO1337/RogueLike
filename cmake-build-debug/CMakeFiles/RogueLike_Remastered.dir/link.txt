@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g   CMakeFiles/RogueLike_Remastered.dir/main.cpp.o CMakeFiles/RogueLike_Remastered.dir/Entities.cpp.o CMakeFiles/RogueLike_Remastered.dir/Map.cpp.o CMakeFiles/RogueLike_Remastered.dir/Loop.cpp.o  -o RogueLike_Remastered  -lcurses 

@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/inno/Рабочий стол/RogueLike_Remastered/Entities.hpp
+iostream
+-
+Map.hpp
+/home/inno/Рабочий стол/RogueLike_Remastered/Map.hpp
+
+/home/inno/Рабочий стол/RogueLike_Remastered/Loop.cpp
+ncurses.h
+-
+random
+-
+ctime
+-
+Loop.hpp
+/home/inno/Рабочий стол/RogueLike_Remastered/Loop.hpp
+chrono
+-
+thread
+-
+
+/home/inno/Рабочий стол/RogueLike_Remastered/Loop.hpp
+iostream
+-
+fstream
+-
+Entities.hpp
+/home/inno/Рабочий стол/RogueLike_Remastered/Entities.hpp
+Map.hpp
+/home/inno/Рабочий стол/RogueLike_Remastered/Map.hpp
+string
+-
+vector
+-
+memory
+-
+bits/shared_ptr.h
+-
+
+/home/inno/Рабочий стол/RogueLike_Remastered/Map.hpp
+Entities.hpp
+/home/inno/Рабочий стол/RogueLike_Remastered/Entities.hpp
+Map.hpp
+/home/inno/Рабочий стол/RogueLike_Remastered/Map.hpp
+iostream
+-
+string
+-
+vector
+-
+memory
+-
+bits/shared_ptr.h
+-
+ncurses.h
+/home/inno/Рабочий стол/RogueLike_Remastered/ncurses.h
+
