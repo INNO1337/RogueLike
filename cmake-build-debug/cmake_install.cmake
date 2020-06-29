@@ -1,4 +1,4 @@
-# Install script for directory: /home/inno/Рабочий стол/RogueLike_Remastered
+# Install script for directory: /home/inno/Рабочий стол/RogueLike
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/inno/Рабочий стол/RogueLike/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

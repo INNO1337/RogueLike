@@ -41,7 +41,7 @@ void Game::start() {
             box(hood, 0, 0);
             wclear(frame);
             nodelay(stdscr, false);
-            std::ifstream exit("/home/inno/Рабочий стол/RogueLike_Remastered/exitquestion.txt");
+            std::ifstream exit("/home/inno/Рабочий стол/RogueLike/exitquestion.txt");
             tmp = "";
             for (int i = 0; i < 17; i++) {
                 getline(exit, tmp);
@@ -120,7 +120,7 @@ void Game::start() {
         wrefresh(hood);
     }
     wclear(frame);
-    std::ifstream over("/home/inno/Рабочий стол/RogueLike_Remastered/gameover.txt");
+    std::ifstream over("/home/inno/Рабочий стол/RogueLike/gameover.txt");
     tmp = "";
     for (int i = 0; i < 17; i++) {
         getline(over, tmp);

@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug"/>
+				<Option working_dir="/home/inno/Рабочий стол/RogueLike/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug"/>
+				<Option working_dir="/home/inno/Рабочий стол/RogueLike/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug"/>
+				<Option working_dir="/home/inno/Рабочий стол/RogueLike/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="RogueLike_Remastered">
-				<Option output="/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug/RogueLike_Remastered" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug"/>
+				<Option output="/home/inno/Рабочий стол/RogueLike/cmake-build-debug/RogueLike_Remastered" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/inno/Рабочий стол/RogueLike/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="clang"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/lib/llvm-6.0/lib/clang/6.0.0/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 RogueLike_Remastered"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 RogueLike_Remastered"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="RogueLike_Remastered/fast">
-				<Option output="/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug/RogueLike_Remastered" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug"/>
+				<Option output="/home/inno/Рабочий стол/RogueLike/cmake-build-debug/RogueLike_Remastered" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/inno/Рабочий стол/RogueLike/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="clang"/>
@@ -77,35 +77,35 @@
 					<Add directory="/usr/lib/llvm-6.0/lib/clang/6.0.0/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 RogueLike_Remastered/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike_Remastered/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 RogueLike_Remastered/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/inno/Рабочий\ стол/RogueLike/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/inno/Рабочий стол/RogueLike_Remastered/Entities.cpp">
+		<Unit filename="/home/inno/Рабочий стол/RogueLike/Entities.cpp">
 			<Option target="RogueLike_Remastered"/>
 		</Unit>
-		<Unit filename="/home/inno/Рабочий стол/RogueLike_Remastered/Entities.hpp">
+		<Unit filename="/home/inno/Рабочий стол/RogueLike/Entities.hpp">
 			<Option target="RogueLike_Remastered"/>
 		</Unit>
-		<Unit filename="/home/inno/Рабочий стол/RogueLike_Remastered/Loop.cpp">
+		<Unit filename="/home/inno/Рабочий стол/RogueLike/Loop.cpp">
 			<Option target="RogueLike_Remastered"/>
 		</Unit>
-		<Unit filename="/home/inno/Рабочий стол/RogueLike_Remastered/Loop.hpp">
+		<Unit filename="/home/inno/Рабочий стол/RogueLike/Loop.hpp">
 			<Option target="RogueLike_Remastered"/>
 		</Unit>
-		<Unit filename="/home/inno/Рабочий стол/RogueLike_Remastered/Map.cpp">
+		<Unit filename="/home/inno/Рабочий стол/RogueLike/Map.cpp">
 			<Option target="RogueLike_Remastered"/>
 		</Unit>
-		<Unit filename="/home/inno/Рабочий стол/RogueLike_Remastered/Map.hpp">
+		<Unit filename="/home/inno/Рабочий стол/RogueLike/Map.hpp">
 			<Option target="RogueLike_Remastered"/>
 		</Unit>
-		<Unit filename="/home/inno/Рабочий стол/RogueLike_Remastered/main.cpp">
+		<Unit filename="/home/inno/Рабочий стол/RogueLike/main.cpp">
 			<Option target="RogueLike_Remastered"/>
 		</Unit>
-		<Unit filename="/home/inno/Рабочий стол/RogueLike_Remastered/CMakeLists.txt">
+		<Unit filename="/home/inno/Рабочий стол/RogueLike/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

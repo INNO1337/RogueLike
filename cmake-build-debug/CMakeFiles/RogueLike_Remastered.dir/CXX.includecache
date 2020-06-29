@@ -6,13 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/inno/Рабочий стол/RogueLike_Remastered/Entities.hpp
+/home/inno/Рабочий стол/RogueLike/Entities.cpp
+Entities.hpp
+/home/inno/Рабочий стол/RogueLike/Entities.hpp
+random
+-
+ctime
+-
+
+/home/inno/Рабочий стол/RogueLike/Entities.hpp
 iostream
 -
 Map.hpp
-/home/inno/Рабочий стол/RogueLike_Remastered/Map.hpp
+/home/inno/Рабочий стол/RogueLike/Map.hpp
 
-/home/inno/Рабочий стол/RogueLike_Remastered/Loop.cpp
+/home/inno/Рабочий стол/RogueLike/Loop.cpp
 ncurses.h
 -
 random
@@ -20,21 +28,21 @@ random
 ctime
 -
 Loop.hpp
-/home/inno/Рабочий стол/RogueLike_Remastered/Loop.hpp
+/home/inno/Рабочий стол/RogueLike/Loop.hpp
 chrono
 -
 thread
 -
 
-/home/inno/Рабочий стол/RogueLike_Remastered/Loop.hpp
+/home/inno/Рабочий стол/RogueLike/Loop.hpp
 iostream
 -
 fstream
 -
 Entities.hpp
-/home/inno/Рабочий стол/RogueLike_Remastered/Entities.hpp
+/home/inno/Рабочий стол/RogueLike/Entities.hpp
 Map.hpp
-/home/inno/Рабочий стол/RogueLike_Remastered/Map.hpp
+/home/inno/Рабочий стол/RogueLike/Map.hpp
 string
 -
 vector
@@ -44,11 +52,19 @@ memory
 bits/shared_ptr.h
 -
 
-/home/inno/Рабочий стол/RogueLike_Remastered/Map.hpp
-Entities.hpp
-/home/inno/Рабочий стол/RogueLike_Remastered/Entities.hpp
+/home/inno/Рабочий стол/RogueLike/Map.cpp
 Map.hpp
-/home/inno/Рабочий стол/RogueLike_Remastered/Map.hpp
+/home/inno/Рабочий стол/RogueLike/Map.hpp
+Entities.hpp
+/home/inno/Рабочий стол/RogueLike/Entities.hpp
+fstream
+-
+
+/home/inno/Рабочий стол/RogueLike/Map.hpp
+Entities.hpp
+/home/inno/Рабочий стол/RogueLike/Entities.hpp
+Map.hpp
+/home/inno/Рабочий стол/RogueLike/Map.hpp
 iostream
 -
 string
@@ -60,5 +76,17 @@ memory
 bits/shared_ptr.h
 -
 ncurses.h
-/home/inno/Рабочий стол/RogueLike_Remastered/ncurses.h
+/home/inno/Рабочий стол/RogueLike/ncurses.h
+
+/home/inno/Рабочий стол/RogueLike/main.cpp
+Entities.hpp
+/home/inno/Рабочий стол/RogueLike/Entities.hpp
+Map.hpp
+/home/inno/Рабочий стол/RogueLike/Map.hpp
+Loop.hpp
+/home/inno/Рабочий стол/RogueLike/Loop.hpp
+iostream
+-
+ncurses.h
+/home/inno/Рабочий стол/RogueLike/ncurses.h
 

@@ -1,3 +1,3 @@
-/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/inno/Рабочий стол/RogueLike_Remastered/cmake-build-debug/CMakeFiles/RogueLike_Remastered.dir
+/home/inno/Рабочий стол/RogueLike/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/inno/Рабочий стол/RogueLike/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/inno/Рабочий стол/RogueLike/cmake-build-debug/CMakeFiles/RogueLike_Remastered.dir

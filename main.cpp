@@ -5,7 +5,7 @@
 #include "ncurses.h"
 
 int main() {
-    Game New_Game("/home/inno/Рабочий стол/RogueLike_Remastered/map.txt");
+    Game New_Game("/home/inno/Рабочий стол/RogueLike/map.txt");
 
     New_Game.start();
 
